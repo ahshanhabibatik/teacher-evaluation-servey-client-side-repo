@@ -1,16 +1,8 @@
 # Project Name
 
 Short project description goes here.
-
-## Table of Contents
-
-- [Client-Side Application](#client-side-application)
-  - [Client Features](#client-features)
-  - [Live Application](#live-application)
-- [Backend Challenges](#backend-challenges)
-- [Live Client Application Link](#live-client-application-link)
-
----
+ 
+ 
 
 ## Client-Side Application
 
